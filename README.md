@@ -1,2 +1,2 @@
-# RowsMysqli.opt
-Rows con MySQLi conexión..
+# Rows & While Mysqli.opt
+Rows & While con MySQLi conexión..
